@@ -1,0 +1,7 @@
+Arti.	 Analyst.	 22	 15000
+
+john	 SE	 24	 20000
+
+mike	 QA	26	 25000
+
+aarya	 Developer	 28	 30000
